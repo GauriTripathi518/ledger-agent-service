@@ -1,4 +1,9 @@
 {
+  "functions": {
+    "main.py": {
+      "maxDuration": 15
+    }
+  },
   "builds": [
     {
       "src": "main.py",
